@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Csaba Boros</h1>
+<h3 align="center">A developer with over 10 years of experience</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boros-csaba&label=Profile%20views&color=0e75b6&style=flat" alt="boros-csaba" /> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **boros-csaba/boros-csaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
