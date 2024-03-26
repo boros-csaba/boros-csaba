@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boros-csaba&label=Profile%20views&color=0e75b6&style=flat" alt="boros-csaba" /> </p>
 
-### Blogs posts
+### Latest blogs posts (list is updated automatically)
 <!-- BLOG-POST-LIST:START -->
 - [How to upload a Docker image to ECR using AWS CLI](https://medium.com/@boros.csaba94/how-to-upload-a-docker-image-to-ecr-using-aws-cli-f21a447214d1?source=rss-b41a5b726edf------2)
 - [Started working on the implementation of my micro SaaS— part 4 of 4](https://medium.com/@boros.csaba94/started-working-on-the-implementation-of-my-micro-saas-part-4-of-4-540e49625a99?source=rss-b41a5b726edf------2)
