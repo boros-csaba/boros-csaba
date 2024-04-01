@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Website](https://img.shields.io/badge/Website-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.boroscsaba.com/)
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boroscsaba/)
+[![Toptal profile](https://img.shields.io/badge/Toptal_profile-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/resume/boros-csaba)
+[![Medium profile](https://img.shields.io/static/v1?label=&message=Medium+profile&color=%23000000&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@boros.csaba94)
